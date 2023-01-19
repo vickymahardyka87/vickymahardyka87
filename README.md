@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vicky Pratama S.M</h1>
 <h3 align="center">A student majoring in Informatics Engineering at Surabaya State University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vickypratama87&label=Profile%20views&color=0e75b6&style=flat" alt="vickypratama87" /> </p>
 
 - 🌱 I’m currently learning **JavaScript, React JS, Node JS, Tailwind CSS**
 

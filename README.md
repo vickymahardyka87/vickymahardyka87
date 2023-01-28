@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vicky Pratama S.M</h1>
-<h3 align="center">A student majoring in Informatics Engineering at Surabaya State University</h3>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&size=30&pause=1000&color=F7F7F7&center=true&width=1000&lines=Informatics+Engineering+at+Surabaya+State+University;I'm+Front-End+Developer;I+love+Javascript+;Coding+is+my+live;%3E%2F%2F%3C" alt="Typing SVG" /></a>
 
 
 - 🌱 I’m currently learning **JavaScript, React JS, Node JS, Tailwind CSS**

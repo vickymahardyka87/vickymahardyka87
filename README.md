@@ -14,7 +14,7 @@ The learning experience, especially in the world of IT, will never run out and w
 
 <h3 align="left">📍Experiences</h3>
 <ul>
-  <li>MSIB Batch 4 - Dicoding Academy, Front-End Web and Back-End </li>
+  <li>MSIB Batch 4 - Dicoding Academy, Learning path : Front-End Web and Back-End </li>
 </ul>
 
 <h3 align="left">🔗Connect with me</h3>

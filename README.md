@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vicky Pratama Setia Mahardika</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&size=30&pause=1000&color=F7F7F7&center=true&width=1000&lines=Informatics+Engineering+at+Surabaya+State+University;I'm+Front-End+Web+Developer;Playing+Visual+Studio+Code;Coding+is+My+Live;I+%F0%9F%92%9B+Javascript+;%3E%2F%2F%3C" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&size=30&pause=1000&color=F7F7F7&center=true&width=1000&lines=Informatics+Engineering+at;I'm+Front-End+Web+Developer;Playing+Visual+Studio+Code;Coding+is+My+Live;I+%F0%9F%92%9B+Javascript+;%3E%2F%2F%3C" alt="Typing SVG" /></a>
 
 I am an undergraduate student in Informatics Engineering who has enthusiasm for the world of IT, more precisely in the field of Front-End Web Development. I have experience building web and web servers using the JavaScript programming language. I have a strong interest in visuals and design. I love Front End Web Development as much as I love my hobby. 
 

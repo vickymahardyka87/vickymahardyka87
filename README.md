@@ -17,7 +17,7 @@ The learning experience, especially in the world of IT, will never run out and w
   <li>MSIB Batch 4 - Dicoding Academy, Front-End Web and Back-End </li>
 </ul>
 
-<h3 align="left">🔗Connect with me:</h3>
+<h3 align="left">🔗Connect with me</h3>
 <p align="left">
   <a href="https://wa.me/6282237282128" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="40px" />

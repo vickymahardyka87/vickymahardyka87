@@ -63,6 +63,9 @@ The learning experience, especially in the world of IT, will never run out and w
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
       <img  alt="Postman" height="40px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=postman"/>
   </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+      <img  alt="Firebase" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+  </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
       <img  alt="Figma" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
   </a>

@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&size=30&pause=1000&color=F7F7F7&center=true&width=1000&lines=Informatics+Engineering;Information+Systems;Front-End+Web+Developer;Playing+Visual+Studio+Code;Coding+is+My+Live;I+%F0%9F%92%9B+Javascript+;%3E%2F%2F%3C" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&size=30&pause=1000&color=F7F7F7&center=true&width=1000&lines=Informatics+Engineering;Information+Systems;Front-End+Web+Developer;Playing+Visual+Studio+Code;Coding+is+My+Live;I+%F0%9F%92%9B+Javascript" alt="Typing SVG" /></a>
 
 ![Blue Yellow Futuristic Virtual Technology Blog Banner](https://github.com/VickyPratama87/VickyPratama87/assets/92003802/002721a9-dbc0-4311-9dcd-1039e8ead870)
 

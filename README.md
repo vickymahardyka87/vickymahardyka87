@@ -6,7 +6,7 @@ I am an undergraduate student in Informatics Engineering who has enthusiasm for 
 
 The learning experience, especially in the world of IT, will never run out and will certainly progress and develop rapidly. So with IT in the world 5.0, the development is so fast for a Technologist how he adapts and deals with the problem with current developments.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗Connect with me:</h3>
 <p align="left">
   <a href="https://wa.me/6282237282128" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="40px" />
@@ -22,7 +22,7 @@ The learning experience, especially in the world of IT, will never run out and w
   </a>
 </p>
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">⚙️Skills and Tools</h3>
 <div align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
       <img  alt="HTML" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>

@@ -6,6 +6,17 @@ I am an undergraduate student in Informatics Engineering who has enthusiasm for 
 
 The learning experience, especially in the world of IT, will never run out and will certainly progress and develop rapidly. So with IT in the world 5.0, the development is so fast for a Technologist how he adapts and deals with the problem with current developments.
 
+<h3 align="left">🏫Educations</h3>
+<ul>
+  <li>Surabaya State University - Information Systems</li>
+  <li>SMAN 1 Pulung Ponorogo - Science Class</li>
+</ul>
+
+<h3 align="left">📍Experiences</h3>
+<ul>
+  <li>MSIB Batch 4 - Dicoding Academy, Front-End Web and Back-End </li>
+</ul>
+
 <h3 align="left">🔗Connect with me:</h3>
 <p align="left">
   <a href="https://wa.me/6282237282128" target="_blank" rel="noreferrer">

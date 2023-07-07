@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&size=30&pause=1000&color=F7F7F7&center=true&width=1000&lines=👨🏻‍🎓+Student+at+Surabaya+State+University;💻+Informatics+Engineering;👨🏻‍💻+Information+Systems;⚛+Junior+Front-End+Web+Developer;🌐+Web+Development+Enthusiast;I+%F0%9F%92%9B+Javascript" alt="Typing SVG" /></a>
-![Blue Yellow Futuristic Virtual Technology Blog Banner](https://github.com/VickyPratama87/VickyPratama87/assets/92003802/002721a9-dbc0-4311-9dcd-1039e8ead870)
+![Blue Yellow Futuristic Virtual Technology Blog Banner (1)](https://github.com/VickyPratama87/VickyPratama87/assets/92003802/cbe75106-31e5-4d15-8778-24292806ed32)
 
 I am an undergraduate student in Informatics Engineering who has enthusiasm for the world of IT, more precisely in the field of Front-End Web Development. I have experience building web and web servers using the JavaScript programming language. I have a strong interest in visuals and design. I love Front End Web Development as much as I love my hobby. 
 

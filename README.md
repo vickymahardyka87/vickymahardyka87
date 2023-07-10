@@ -86,6 +86,7 @@ The learning experience, especially in the world of IT, will never run out and w
 <br/>
 <br/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VickyPratama87&layout=compact)
 
 <div align="center">
   

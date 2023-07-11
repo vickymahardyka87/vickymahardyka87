@@ -70,6 +70,9 @@ The learning experience, especially in the world of IT, will never run out and w
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img  alt="Git" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   </a>
+  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
+      <img  alt="Webpack" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"/>
+  </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
       <img  alt="Postman" height="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=postman"/>
   </a>

@@ -83,8 +83,11 @@ The learning experience, especially in the world of IT, will never run out and w
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
       <img  alt="Figma" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
   </a>
-   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
       <img  alt="Canva" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img  alt="Canva" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> 
   </a>
 </div>
 <br/>

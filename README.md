@@ -80,11 +80,11 @@ The learning experience, especially in the world of IT, will never run out and w
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
       <img  alt="Firebase" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img  alt="Figma" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+      <img  alt="ExpressJS" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/> 
   </a>
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-      <img  alt="Canva" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+      <img  alt="MongoDB" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/> 
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
       <img  alt="Canva" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> 

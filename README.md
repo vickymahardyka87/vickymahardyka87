@@ -14,7 +14,7 @@ The learning experience, especially in the world of IT, will never run out and w
 <h3 align="left">📍Experiences</h3>
 <ul>
   <li>MSIB Cycle 4 at Dicoding Academy | Front-End Web and Back-End </li>
-  <li>Internship at Badan Pusat Statistik - Ponorogo | Data Entry and Editing Coding </li>
+  <li>Internship at Badan Pusat Statistik - Ponorogo | Tim IPDS (Integrasi Pengolahan dan Diseminasi Statistik) </li>
 </ul>
 
 <h3 align="left">🔗Connect with me</h3>

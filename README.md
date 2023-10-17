@@ -68,12 +68,22 @@ The learning experience, especially in the world of IT, will never run out and w
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
       <img  alt="Tailwind" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
   </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+      <img  alt="ExpressJS" height="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=express"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+      <img  alt="Postman" height="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=postman"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+      <img  alt="Github" height="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=github"/>
+  </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img  alt="VSCode" height="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img  alt="Git" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   </a>
+  
   <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
       <img  alt="Webpack" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"/>
   </a>
@@ -83,15 +93,10 @@ The learning experience, especially in the world of IT, will never run out and w
   <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
       <img  alt="Sequelize" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"/>
   </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-      <img  alt="Postman" height="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=postman"/>
-  </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
       <img  alt="Firebase" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
   </a>
-   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-      <img  alt="ExpressJS" height="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=express"/>
-  </a>
+ 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img  alt="MongoDB" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/> 
   </a>

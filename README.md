@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&size=30&pause=1000&color=F7F7F7&center=true&width=1000&lines=👨🏻‍🎓+Student+at+Surabaya+State+University;💻+Informatics+Engineering;👨🏻‍💻+Information+Systems;📍+Junior+Full-Stack+Web+Developer;🌐+Web+Development+Enthusiast;I+%F0%9F%92%9B+Javascript" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&size=30&pause=1000&color=F7F7F7&center=true&width=1000&lines=👨🏻‍🎓+Student+at+State+University+of+Surabaya;💻+Informatics+Engineering;👨🏻‍💻+Information+Systems;📍+Junior+Full-Stack+Web+Developer;🌐+Web+Development+Enthusiast;I+%F0%9F%92%9B+Javascript" alt="Typing SVG" /></a>
 
 ![Blue Yellow Futuristic Virtual Technology Blog Banner](https://github.com/VickyPratama87/VickyPratama87/assets/92003802/eaac3985-b1d7-48b3-97c0-e701c1851439)
 
@@ -8,7 +8,7 @@ The learning experience, especially in the world of IT, will never run out and w
 
 <h3 align="left">🏫Educations</h3>
 <ul>
-  <li>Surabaya State University - Information Systems</li>
+  <li>State University of Surabaya - Information Systems</li>
   <li>SMAN 1 Pulung Ponorogo - Science Class</li>
 </ul>
 

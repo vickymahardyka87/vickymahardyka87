@@ -94,13 +94,6 @@ The learning experience, especially in the world of IT, will never run out and w
   <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
       <img  alt="Sequelize" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"/>
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img  alt="Firebase" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
-  </a>
- 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img  alt="MongoDB" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/> 
-  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
       <img  alt="Canva" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> 
   </a>

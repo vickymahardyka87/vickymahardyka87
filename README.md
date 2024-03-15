@@ -67,7 +67,7 @@ The learning experience, especially in the world of IT, will never run out and w
       <img  alt="Bootstrap" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-      <img  alt="Tailwind" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
+      <img  alt="Tailwind" height="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg"/>
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
       <img  alt="ExpressJS" height="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=express"/>

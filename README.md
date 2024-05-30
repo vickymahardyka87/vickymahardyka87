@@ -60,6 +60,9 @@ The learning experience, especially in the world of IT, will never run out and w
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img  alt="ReactJS" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </a>
+   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
+      <img  alt="ReactJS" height="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original.svg" />
+  </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
       <img  alt="VueJS" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   </a>
@@ -84,7 +87,6 @@ The learning experience, especially in the world of IT, will never run out and w
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img  alt="Git" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   </a>
-  
   <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
       <img  alt="Webpack" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"/>
   </a>
@@ -96,6 +98,9 @@ The learning experience, especially in the world of IT, will never run out and w
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
       <img  alt="Canva" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> 
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+      <img  alt="Canva" height="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-plain.svg"/> 
   </a>
 </div>
 <br/>

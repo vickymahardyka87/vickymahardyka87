@@ -1,6 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&size=30&pause=1000&color=F7F7F7&center=true&width=1000&lines=👨🏻‍🎓+Student+at+State+University+of+Surabaya;💻+Informatics+Engineering;👨🏻‍💻+Information+Systems;👽+Junior+Full+Stack+Web+Developer;🌐+Web+Development+Enthusiast;🛠+MERN+Stack+Developer;🟡+JavaScript+User;🖥+Coding+is+My+Live;🎮+Playing+Visual+Studio+Code;I+%F0%9F%92%9B+Javascript" alt="Typing SVG" /></a>
-
-![Blue Yellow Futuristic Virtual Technology Blog Banner](https://github.com/VickyPratama87/VickyPratama87/assets/92003802/eaac3985-b1d7-48b3-97c0-e701c1851439)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&size=30&pause=1000&color=F7F7F7&center=true&width=1000&lines=👨🏻‍🎓+Student+at+State+University+of+Surabaya;💻+Informatics+Engineering;👨🏻‍💻+Information+Systems;👽+Junior+Front-End+Web+Developer;🌐+Web+Development+Enthusiast;🛠+MERN+Stack+Developer;🟡+JavaScript+User;🖥+Coding+is+My+Live;🎮+Playing+Visual+Studio+Code;I+%F0%9F%92%9B+Javascript" alt="Typing SVG" /></a>
 
 I am an undergraduate student in Informatics Engineering who has enthusiasm for the world of IT, more precisely in the field of Front-End Web Development. I have experience building web and web servers using the JavaScript programming language. I have a strong interest in visuals and design. I love Front End Web Development as much as I love my hobby. 
 

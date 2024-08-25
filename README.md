@@ -103,6 +103,9 @@ The learning experience, especially in the world of IT, will never run out and w
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
       <img  alt="Canva" height="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-plain.svg"/> 
   </a>
+   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+      <img  alt="Canva" height="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg"/> 
+  </a>
 </div>
 <br/>
 <br/>

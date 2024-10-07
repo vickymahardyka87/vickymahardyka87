@@ -61,7 +61,7 @@ The learning experience, especially in the world of IT, will never run out and w
       <img  alt="ReactJS" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </a>
    <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-      <img  alt="ReactJS" height="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original.svg" />
+      <img  alt="NextJS" height="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=nextjs" />
   </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
       <img  alt="VueJS" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />

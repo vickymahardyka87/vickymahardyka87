@@ -113,12 +113,13 @@ The learning experience, especially in the world of IT, will never run out and w
 <br/>
 
 <div align="center">
-
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VickyPratama87&layout=compact&theme=tokyonight)
 </div>
 
+<div>
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VickyPratama87&layout=compact&theme=tokyonight)
+</div>
 
 <div align="center">
-  
   <a href="">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</a>
 </div>

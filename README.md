@@ -109,10 +109,3 @@ The learning experience, especially in the world of IT, will never run out and w
       <img  alt="Canva" height="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg"/> 
   </a>
 </div>
-<br/>
-<br/>
-
-
-<div align="center">
-  <a href="">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</a>
-</div>

@@ -18,22 +18,6 @@ The learning experience, especially in the world of IT, will never run out and w
   <li>Internship at Badan Pusat Statistik - Ponorogo | Tim IPDS (Integrasi Pengolahan dan Diseminasi Statistik) </li>
 </ul>
 
-<h3 align="left">🔗Connect with me</h3>
-<p align="left">
-  <a href="https://wa.me/6282237282128" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="30px" />
-  </a>
-  <a href="https://instagram.com/vickymahardyka87" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/640px-Instagram_logo_2016.svg.png" height="30px" />
-  </a>
-  <a href="https://linkedin.com/in/vicky-pratama" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/640px-LinkedIn_icon.svg.png" height="30px" />
-  </a>
-  <a href="mailto:vicky.20016@mhs.unesa.ac.id" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30px" width="30px" />
-  </a>
-</p>
-
 <h3 align="left">⚙️Skills and Tools</h3>
 <div align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">

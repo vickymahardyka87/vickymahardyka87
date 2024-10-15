@@ -18,6 +18,35 @@ The learning experience, especially in the world of IT, will never run out and w
   <li>Internship at Badan Pusat Statistik - Ponorogo | Tim IPDS (Integrasi Pengolahan dan Diseminasi Statistik) </li>
 </ul>
 
+<h3 align="left">💡My Project</h3>
+<ul>
+  <li>
+    <a href="https://vicode-bookshelf-app.vercel.app/">
+      BookShelf App
+    </a>
+  </li>
+  <li>
+    <a href="https://vicode-contact-app.vercel.app/">
+      Contact App
+    </a>
+  </li>
+  <li>
+    <a href="https://vicode-todo-app.vercel.app/">
+      Todo App
+    </a>
+  </li>
+  <li>
+    <a href="https://vicode-pokemon-app.vercel.app/">
+      Pokemon App
+    </a>
+  </li>
+  <li>
+    <a href="https://vicode-ecommerce-mern.vercel.app/">
+      Ecommerce App
+    </a>
+  </li>
+</ul>
+
 <h3 align="left">⚙️Skills and Tools</h3>
 <div align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">

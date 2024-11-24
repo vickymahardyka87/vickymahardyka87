@@ -1,10 +1,8 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&size=30&pause=1000&color=F7F7F7&center=true&width=1000&lines=👨🏻‍🎓+Student+at+State+University+of+Surabaya;💻+Informatics+Engineering;👨🏻‍💻+Information+Systems;👽+Junior+Front-End+Web+Developer;🌐+Web+Development+Enthusiast;🛠+MERN+Stack+Developer;🟡+JavaScript+User;🖥+Coding+is+My+Live;🎮+Playing+Visual+Studio+Code;I+%F0%9F%92%9B+Javascript" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&size=30&pause=1000&color=F7F7F7&center=true&width=1000&lines=👨🏻‍🎓+Student+at+State+University+of+Surabaya;💻+Informatics+Engineering;👨🏻‍💻+Information+Systems;👽+Junior+Full-Stack+Web+Developer;🖌+Slicing+UI+From+Figma;🌐+Web+Development+Enthusiast;🛠+MERN+Stack+Developer;🟡+JavaScript+User;🖥+Coding+is+My+Live;🎮+Playing+Visual+Studio+Code;I+%F0%9F%92%9B+Javascript" alt="Typing SVG" /></a>
 
 ![Blue Yellow Futuristic Virtual Technology Blog Banner](https://github.com/user-attachments/assets/7796767f-5f08-4333-99a8-f87a1b77388b)
 
-I am an undergraduate student in Informatics Engineering who has enthusiasm for the world of IT, more precisely in the field of Front-End Web Development. I have experience building web and web servers using the JavaScript programming language. I have a strong interest in visuals and design. I love Front End Web Development as much as I love my hobby. 
-
-The learning experience, especially in the world of IT, will never run out and will certainly progress and develop rapidly. So with IT in the world 5.0, the development is so fast for a Technologist how he adapts and deals with the problem with current developments.
+I am a student specializing in Information Systems within the field of Informatics Engineering. I have a strong passion for web development, ranging from Front-End and Back-End to Full-Stack Web Developer. My interests extend to responsive design, crafting server architectures, and designing databases. I primarily use JavaScript as my go-to programming language for building systems. Through my experience in learning IT, I realize the importance of continually upgrading my skills to stay updated in the ever-evolving world of technology.
 
 <h3 align="left">🏫Educations</h3>
 <ul>

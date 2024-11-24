@@ -98,6 +98,6 @@ The learning experience, especially in the world of IT, will never run out and w
 <br/>
 
 <div align="center">
-  
+
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VickyPratama87&theme=chartreuse-dark&layout=compact)
 </div>

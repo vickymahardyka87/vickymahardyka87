@@ -96,6 +96,6 @@ I am a student specializing in Information Systems within the field of Informati
 <br/>
 
 <div align="center">
-
+  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VickyPratama87&theme=chartreuse-dark&layout=compact)
 </div>

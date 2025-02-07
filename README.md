@@ -96,6 +96,5 @@ I am Fresh Graduate of Information Systems within the field of Informatics Engin
 <br/>
 
 <div align="center">
-  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VickyPratama87&theme=chartreuse-dark&layout=compact)
 </div>

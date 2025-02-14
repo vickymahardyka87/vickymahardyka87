@@ -31,7 +31,10 @@ I am Fresh Graduate of Information Systems within the field of Informatics Engin
       <img  alt="TypeScript" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
   </a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-      <img  alt="NodeJS" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+      <img  alt="NodeJS" height="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+  <a href="https://bun.sh/" target="_blank" rel="noreferrer">
+      <img  alt="Bun" height="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=bun" />
   </a>
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
       <img  alt="NPM" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
@@ -47,6 +50,9 @@ I am Fresh Graduate of Information Systems within the field of Informatics Engin
   </a>
   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
       <img  alt="NextJS" height="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=nextjs" />
+  </a>
+  <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer">
+      <img  alt="NestJS" height="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nestjs/nestjs-plain.svg" />
   </a>
   <a href="https://vite.dev/guide/" target="_blank" rel="noreferrer">
       <img  alt="Vite" height="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=vite" />
@@ -81,14 +87,20 @@ I am Fresh Graduate of Information Systems within the field of Informatics Engin
   <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
       <img  alt="Sequelize" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"/>
   </a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+      <img  alt="Prisma" height="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=prisma" />
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img  alt="Canva" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> 
+      <img  alt="Mysql" height="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> 
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img  alt="Canva" height="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-plain.svg"/> 
+      <img  alt="Firebase" height="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-plain.svg"/> 
   </a>
-   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img  alt="Canva" height="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg"/> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+      <img  alt="MongoDB" height="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg"/> 
+  </a>
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+      <img  alt="Jest" height="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jest/jest-plain.svg"/> 
   </a>
 </div>
 

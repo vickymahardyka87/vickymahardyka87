@@ -100,7 +100,7 @@ I am Fresh Graduate of Information Systems within the field of Informatics Engin
       <img  alt="MongoDB" height="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original.svg"/> 
   </a>
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
-      <img  alt="Jest" height="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jest/jest-plain.svg"/> 
+      <img  alt="Jest" height="25px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jest/jest-plain.svg"/> 
   </a>
 </div>
 

@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&size=30&pause=1000&color=F7F7F7&center=true&width=1000&lines=👨🏻‍🎓+Fresh+Graduate+Of+State+University+of+Surabaya;💻+Informatics+Engineering;👨🏻‍💻+Information+Systems;👽+Junior+Full-Stack+Web+Developer;🖌+Slicing+UI+From+Figma;🌐+Web+Development+Enthusiast;🛠+MERN+Stack+Developer;🟡+JavaScript+User;🖥+Coding+is+My+Live;🎮+Playing+Visual+Studio+Code;I+%F0%9F%92%9B+Javascript" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Noto+Sans&size=30&pause=1000&color=F7F7F7&center=true&width=1000&lines=👨🏻‍🎓+Fresh+Graduate+Of+State+University+of+Surabaya;💻+Informatics+Engineering;👨🏻‍💻+Information+Systems;👽+Junior+Full-Stack+Web+Developer;🖌+Slicing+UI+From+Figma;🌐+Web+Development+Enthusiast;🛠+MERN+Stack+Developer;🟡+JavaScript+User;🖥+Coding+is+My+Live;🎮+Playing+Visual+Studio+Code;I+%F0%9F%92%9B+Javascript)](https://git.io/typing-svg)
 
 ![Blue Yellow Futuristic Virtual Technology Blog Banner](https://github.com/user-attachments/assets/7796767f-5f08-4333-99a8-f87a1b77388b)
 
